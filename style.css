@@ -1,0 +1,69 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Figtree", sans-serif;
+    box-sizing: 0;
+}
+
+div.card-horizonte {
+    background-image: url("img/horizonte.jpg");
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: auto;
+    text-align: center;
+    border-radius: auto;
+    min-height: 100vh;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Figtree", sans-serif;
+    width: 100%;
+    height: auto;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+h1 {
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 88px;
+    font-weight: 300;
+    opacity:1;
+    font-style: normal;
+    align-items: center;
+}
+
+id #local {
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    color:#ffffffe0;
+    font-style: normal;
+    align-items: center;
+}
+
+h2 {
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 12px;
+    font-weight: 400;
+    color: #ffffffc7;
+    font-style: normal;
+    align-items: center;
+}
+
+id #ano {
+    font-family: "Figtree", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 12px;
+    font-weight: 400;
+    color: #ffffff8c;
+    font-style: normal;
+    align-items: center;
+}
